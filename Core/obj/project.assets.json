@@ -180,28 +180,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/truongnguyen/.nuget/packages/": {}
+    "C:\\Users\\ykimc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/truongnguyen/HOC TAP/SomeProject/Online Movie Ticket Booking/OMTB/Core/Core.csproj",
+      "projectUniqueName": "d:\\YYYYYYYYYYY\\Code\\.NET\\OnlineMovieTicketBooking\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "/Users/truongnguyen/HOC TAP/SomeProject/Online Movie Ticket Booking/OMTB/Core/Core.csproj",
-      "packagesPath": "/Users/truongnguyen/.nuget/packages/",
-      "outputPath": "/Users/truongnguyen/HOC TAP/SomeProject/Online Movie Ticket Booking/OMTB/Core/obj/",
+      "projectPath": "d:\\YYYYYYYYYYY\\Code\\.NET\\OnlineMovieTicketBooking\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\ykimc\\.nuget\\packages\\",
+      "outputPath": "d:\\YYYYYYYYYYY\\Code\\.NET\\OnlineMovieTicketBooking\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/truongnguyen/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ykimc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -213,6 +216,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "NETStandard.Library": {
             "suppressParent": "All",
@@ -231,7 +235,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

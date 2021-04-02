@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "RSqAY1ZNtTJZTeuSDSlY2IqL8bvWkHkryn7EJW+m+cMfq7VnrgOX9BuTnoOTzP6Fdq+KdGI70VyKywUiufLEDQ==",
+  "dgSpecHash": "hMJ5305og9xfWwgGPOAPlYVmm42ClWI1/XSS1a/9p6fxT/pB67Qiun9xoHsm+DJJVQM3+r7mYQWdHhG29EGp3Q==",
   "success": true,
-  "projectFilePath": "/Users/truongnguyen/HOC TAP/SomeProject/Online Movie Ticket Booking/OMTB/Core/Core.csproj",
+  "projectFilePath": "d:\\YYYYYYYYYYY\\Code\\.NET\\OnlineMovieTicketBooking\\Core\\Core.csproj",
   "expectedPackageFiles": [
-    "/Users/truongnguyen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/truongnguyen/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\ykimc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ykimc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
