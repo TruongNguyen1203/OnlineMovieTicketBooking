@@ -10,6 +10,7 @@ namespace Core.Entities
         public bool Gender { get; set; }
         public string Address { get; set; }
         public string PictureUrl { get; set; }
-       
+        public Member Member { get; set; }
+        public int MemberId { get; set; }
     }
 }
