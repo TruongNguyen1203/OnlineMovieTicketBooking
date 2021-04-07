@@ -2,9 +2,8 @@ using System;
 
 namespace Core.Entities
 {
-    public class Movie
+    public class Movie : BaseEntity
     {
-        public int Id { get; set; }
         public int RunningTime { get; set; }
         public string Poster { get; set; }   
         public string Name { get; set; }

@@ -1,8 +1,7 @@
 namespace Core.Entities
 {
-    public class Screen
+    public class Screen : BaseEntity
     {
-        public int Id { get; set; }
         public string Name { get; set; }
         public int TheaterId { get; set; }
         public Theater Theater { get; set; } 
