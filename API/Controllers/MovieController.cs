@@ -2,9 +2,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")]
-    public class MovieController: ControllerBase
+  
+    public class MovieController : BaseApiController
     {
         
     }
