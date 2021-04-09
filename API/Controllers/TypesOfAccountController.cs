@@ -2,9 +2,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")]
-    public class TypesOfAccountController:ControllerBase
+
+    public class TypesOfAccountController : BaseApiController
     {
         
     }

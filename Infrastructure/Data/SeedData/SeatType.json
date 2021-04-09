@@ -1,0 +1,14 @@
+[
+ {
+   "Name": "Normal ",
+   "Price": 70000
+ },
+ {
+   "Name": "VIP",
+   "Price": 75000
+ },
+ {
+   "Name": "Sweet Box",
+   "Price": 95000
+ }
+]

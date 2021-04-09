@@ -1,0 +1,502 @@
+[
+ {
+   "Name": "A1",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "A2",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "A3",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "A4",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "A5",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "A6",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "A7",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "A8",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "A9",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "A10",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "B1",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "B2",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "B3",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "B4",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "B5",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "B6",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "B7",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "B8",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "B9",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "B10",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "C1",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "C2",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "C3",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "C4",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "C5",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "C6",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "C7",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "C8",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "C9",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "C10",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "D1",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "D2",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "D3",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "D4",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "D5",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "D6",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "D7",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "D8",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "D9",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "D10",
+   "SeatTypeId": 1,
+   "ScreenId": 1
+ },
+ {
+   "Name": "E1",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "E2",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "E3",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "E4",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "E5",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "E6",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "E7",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "E8",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "E9",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "E10",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "F1",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "F2",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "F3",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "F4",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "F5",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "F6",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "F7",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "F8",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "F9",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "F10",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "G1",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "G2",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "G3",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "G4",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "G5",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "G6",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "G7",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "G8",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "G9",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "G10",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "H1",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "H2",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "H3",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "H4",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "H5",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "H6",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "H7",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "H8",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "H9",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "H10",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "I1",
+   "SeatTypeId": 2,
+   "ScreenId": null
+ },
+ {
+   "Name": "I2",
+   "SeatTypeId": 2,
+   "ScreenId": null
+ },
+ {
+   "Name": "I3",
+   "SeatTypeId": 2,
+   "ScreenId": null
+ },
+ {
+   "Name": "I4",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "I5",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "I6",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "I7",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "I8",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "I9",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "I10",
+   "SeatTypeId": 2,
+   "ScreenId": 1
+ },
+ {
+   "Name": "J1",
+   "SeatTypeId": 3,
+   "ScreenId": 1
+ },
+ {
+   "Name": "J2",
+   "SeatTypeId": 3,
+   "ScreenId": 1
+ },
+ {
+   "Name": "J3",
+   "SeatTypeId": 3,
+   "ScreenId": 1
+ },
+ {
+   "Name": "J4",
+   "SeatTypeId": 3,
+   "ScreenId": 1
+ },
+ {
+   "Name": "J5",
+   "SeatTypeId": 3,
+   "ScreenId": 1
+ },
+ {
+   "Name": "J6",
+   "SeatTypeId": 3,
+   "ScreenId": 1
+ },
+ {
+   "Name": "J7",
+   "SeatTypeId": 3,
+   "ScreenId": 1
+ },
+ {
+   "Name": "J8",
+   "SeatTypeId": 3,
+   "ScreenId": 1
+ },
+ {
+   "Name": "J9",
+   "SeatTypeId": 3,
+   "ScreenId": 1
+ },
+ {
+   "Name": "J10",
+   "SeatTypeId": 3,
+   "ScreenId": 1
+ }
+]

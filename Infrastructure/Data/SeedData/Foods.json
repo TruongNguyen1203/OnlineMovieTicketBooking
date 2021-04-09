@@ -1,0 +1,44 @@
+[
+ {
+   "Name": "COMBO OF THE MONTH",
+   "Description": "1 Movie Cup (with Drink) + 1 Acti V\n* Buy 1 Sweet Popcorn only 40,000 vnd at cinema*\n** Merchandise depends on site availability **\n*** Redeem on showing date ***\n",
+   "PictureUrl": "Images/foods/combo-1",
+   "Price": 159000
+ },
+ {
+   "Name": "N95 COCA COMBO",
+   "Description": "1 Large Popcorn + 2 Large Drinks + 1 Snack. Get 1 3M-N95 Mask and 1 times refill softdrink free.\n*Surcharge when upgrade Cheese popcorn*\n**Redeem on showing date**\n",
+   "PictureUrl": "Images/foods/combo-2",
+   "Price": 139000
+ },
+ {
+   "Name": "LINE 3 FAMILY COMBO",
+   "Description": "4 Line 3 cup with drink + 2 large sweet popcorn\n* Free upgrade flavor for Cheese or Caramel *\n**Redeem on the showing date**",
+   "PictureUrl": "Images/foods/combo-3",
+   "Price": 899000
+ },
+ {
+   "Name": "CGV COMBO",
+   "Description": "1 Large Sweet Popcorn + 2 Large Drinks. Redeem on showing date\n* Free upgrade flavor for Caramel *\n**Surcharge when upgrade Cheese popcorn**",
+   "PictureUrl": "Images/foods/combo-4",
+   "Price": 99000
+ },
+ {
+   "Name": "LINE 3 SINGLE COMBO",
+   "Description": "1 Line cup with drink + 1 large sweet popcorn\n* Free upgrade flavor for Cheese or Caramel *\n**Redeem on the showing date**",
+   "PictureUrl": "Images/foods/combo-5",
+   "Price": 259000
+ },
+ {
+   "Name": "LINE 3 COUPLE COMBO",
+   "Description": "2 Line 3 cup with drink + 1 large sweet popcorn +1 snack\n* Free upgrade flavor for Cheese or Caramel *\n**Redeem on the showing date**",
+   "PictureUrl": "Images/foods/combo-6",
+   "Price": 499000
+ },
+ {
+   "Name": "MY COMBO",
+   "Description": "1 Medium Popcorn + 1 Jumbo Drink. Redeem on showing date.\n* Free upgrade flavor for Caramel *\n**Surcharge when upgrade Cheese popcorn**\n",
+   "PictureUrl": "Images/foods/combo-7",
+   "Price": 79000
+ }
+]
