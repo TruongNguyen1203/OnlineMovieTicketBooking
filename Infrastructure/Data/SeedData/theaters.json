@@ -1,0 +1,26 @@
+[
+    {
+      "Id": 1,
+      "Name": "CGV Vincom Thu Duc",
+      "Address": "Floor 5, Vincom Thu Duc Shopping Center, 216 Vo Van Ngan, Binh Tho Ward, Thu Duc District",
+      "Hotline": 19006017
+    },
+    {
+      "Id": 2,
+      "Name": "CGV Giga Mall Thu Duc",
+      "Address": "Floor 6, GIGAMALL, 240-242 Pham Van Dong, Hiep Binh Chanh Ward, Thu Duc District, HCMC.",
+      "Hotline": 19006017
+    },
+    {
+      "Id": 3,
+      "Name": "CGV Aeon Tân Phú",
+      "Address": "Floor 3, Aeon Mall 30 Bo Bao Tan Thang, Son Ky Ward, Tan Phu District, City. Ho Chi Minh",
+      "Hotline": 19006017
+    },
+    {
+      "Id": 4,
+      "Name": "CGV Pandora City",
+      "Address": "3rd Floor, Pandora City 1/1 Truong Chinh, Tan Phu District, City. Ho Chi Minh",
+      "Hotline": 19006017
+    }
+  ]

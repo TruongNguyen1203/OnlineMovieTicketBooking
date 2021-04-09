@@ -1,0 +1,72 @@
+[
+    {
+      "Id": 1,
+      "MovieId": 1,
+      "TimeStart": "12/04/2021 10:20:00",
+      "Language": "2D Vietnamese Sub",
+      "ScreenId": 1
+    },
+    {
+      "Id": 2,
+      "MovieId": 1,
+      "TimeStart": "12/04/2021 12:20:00",
+      "Language": "2D Vietnamese Sub",
+      "ScreenId": 4
+    },
+    {
+      "Id": 3,
+      "MovieId": 1,
+      "TimeStart": "12/04/2021 15:20:00",
+      "Language": "2D Vietnamese Sub",
+      "ScreenId": 7
+    },
+    {
+      "Id": 4,
+      "MovieId": 1,
+      "TimeStart": "12/04/2021 17:50:00",
+      "Language": "2D Vietnamese Sub",
+      "ScreenId": 2
+    },
+    {
+      "Id": 5,
+      "MovieId": 1,
+      "TimeStart": "12/04/2021 20:20:00",
+      "Language": "2D Vietnamese Sub",
+      "ScreenId": 5
+    },
+    {
+      "Id": 6,
+      "MovieId": 2,
+      "TimeStart": "14/04/2021 10:20:00",
+      "Language": "2D Vietnamese Sub",
+      "ScreenId": 3
+    },
+    {
+      "Id": 7,
+      "MovieId": 2,
+      "TimeStart": "14/04/2021 12:20:00",
+      "Language": "2D Vietnamese Sub",
+      "ScreenId": 6
+    },
+    {
+      "Id": 8,
+      "MovieId": 2,
+      "TimeStart": "14/04/2021 15:20:00",
+      "Language": "2D Vietnamese Sub",
+      "ScreenId": 8
+    },
+    {
+      "Id": 9,
+      "MovieId": 2,
+      "TimeStart": "14/04/2021 17:50:00",
+      "Language": "2D Vietnamese Sub",
+      "ScreenId": 9
+    },
+    {
+      "Id": 10,
+      "MovieId": 2,
+      "TimeStart": "14/04/2021 20:20:00",
+      "Language": "2D Vietnamese Sub",
+      "ScreenId": 10
+    }
+  ]

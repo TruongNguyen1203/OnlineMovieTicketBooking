@@ -1,0 +1,30 @@
+[
+    {
+      "Id": 1,
+      "Name": "U22",
+      "Description": "CGV U22 is a CGV membership program for customers who are from 12 to 22 years old",
+      "Points": 0.05,
+      "VND": 1000
+    },
+    {
+      "Id": 2,
+      "Name": "CGV Member",
+      "Description": "CGV membership is a point-base membership program carter to frequent customers from 23 years old of CGV",
+      "Points": 0.05,
+      "VND": 1000
+    },
+    {
+      "Id": 3,
+      "Name": "CGV VIP",
+      "Description": "Customers whose total spending last year was from 5,500,000VND to under 10,000,000VND will become CGV VIP this year",
+      "Points": 0.07,
+      "VND": 1000
+    },
+    {
+      "Id": 4,
+      "Name": "CGV VVIP",
+      "Description": "Customers whose total spending last year is from 10,000,000VND and above will become CGV VVIP this year",
+      "Points": 0.1,
+      "VND": 1000
+    }
+  ]

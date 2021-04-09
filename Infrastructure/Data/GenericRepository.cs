@@ -1,0 +1,28 @@
+using Core.Entities;
+using Core.Interfaces;
+using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
+namespace Infrastructure.Data
+{
+    public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
+    {
+        private readonly StoreContext _context;
+        public GenericRepository(StoreContext context)
+        {
+            this._context = context;
+        }
+
+        public async Task<T> GetByIdAsync(int id)
+        {
+            return await _context.Set<T>().FindAsync(id);
+            // return await _context.Movies.FirstOrDefaultAsync();
+        }
+
+        public Task<IReadOnlyList<T>> ListAllAsync()
+        {
+            throw new System.NotImplementedException();
+        }
+    }
+}

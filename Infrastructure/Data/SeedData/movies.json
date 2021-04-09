@@ -1,0 +1,28 @@
+[
+    {
+      "Id": 1,
+      "RunningTime": 110,
+      "Poster": "/DataSeed/images/movies/godzilla_vs_kong.jpg",
+      "Name": "GODZILLA VS. KONG",
+      "Genre": "Science Fiction",
+      "Directors": "Adam Wingard",
+      "Actors": "Millie Bobby Brown, Alexander Skarsgård, Rebecca Hall, Eiza González, Kyle Chandler",
+      "Rules": "C13 - NO CHILDREN UNDER 13 YEARS OLD",
+      "Description": "Legends collide in “Godzilla vs. Kong” as these mythic adversaries meet in a spectacular battle for the ages, with the fate of the world hanging in the balance. Kong and his protectors undertake a perilous journey to find his true home, and with them is Jia, a young orphaned girl with whom he has formed a unique and powerful bond. But they unexpectedly find themselves in the path of an enraged Godzilla, cutting a swath of destruction across the globe. The epic clash between the two titans—instigated by unseen forces—is only the beginning of the mystery that lies deep within the core of the Earth.",
+      "Trailer": "https://www.youtube.com/embed/yFpuUGFS1Kg",
+      "ReleaseDate": "26/03/2021"
+    },
+    {
+      "Id": 2,
+      "RunningTime": 130,
+      "Poster": "/DataSeed/images/movies/conan_24.JPG",
+      "Name": "DETECTIVE CONAN: THE SCARLET BULLET",
+      "Genre": "Action, Animation, Crime, Romance, Thriller",
+      "Directors": "Tomoka Nagaoka",
+      "Actors": "Minami Hamabe, Megumi Hayashibara, Ogata Kenichi, Rikiya Koyama, Minami Takayama",
+      "Rules": "None",
+      "Description": "The World Sports Games held in Tokyo, Japan, attract a lot of attention. When the launch event of the vacuum-tube super-conducting linear train with a speed of 1000km/h takes place is also a series of kidnappings occurred! The dangerous family gathered here will cause a series of world shocking events!",
+      "Trailer": "https://www.youtube.com/embed/lOq4F7tLpxU",
+      "ReleaseDate": "23/04/2021"
+    }
+  ]

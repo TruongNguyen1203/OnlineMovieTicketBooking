@@ -1,0 +1,52 @@
+[
+    {
+      "Id": 1,
+      "Name": "Screen 1",
+      "TheaterId": 1
+    },
+    {
+      "Id": 2,
+      "Name": "Screen 2",
+      "TheaterId": 1
+    },
+    {
+      "Id": 3,
+      "Name": "Screen 3",
+      "TheaterId": 1
+    },
+    {
+      "Id": 4,
+      "Name": "Screen 1",
+      "TheaterId": 2
+    },
+    {
+      "Id": 5,
+      "Name": "Screen 2",
+      "TheaterId": 2
+    },
+    {
+      "Id": 6,
+      "Name": "Screen 3",
+      "TheaterId": 2
+    },
+    {
+      "Id": 7,
+      "Name": "Screen 1",
+      "TheaterId": 3
+    },
+    {
+      "Id": 8,
+      "Name": "Screen 2",
+      "TheaterId": 3
+    },
+    {
+      "Id": 9,
+      "Name": "Screen 1",
+      "TheaterId": 4
+    },
+    {
+      "Id": 10,
+      "Name": "Screen 2",
+      "TheaterId": 4
+    }
+  ]
